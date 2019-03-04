@@ -1,0 +1,15 @@
+.wrapper {
+  align-items: center;
+  display: flex;
+  height: 100%;
+  text-align: center;
+}
+
+svg {
+  margin: auto;
+}
+
+rect {
+  height: 20px;
+  width: 100%;
+}
